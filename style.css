@@ -1,0 +1,33 @@
+body {
+    background-color: gray;
+}
+
+.header{
+    padding: 15px;
+}
+
+.links{
+    display: inline;
+    margin-left: 440px;
+}
+
+.links a{
+    margin-left: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    padding: 15px;
+}
+
+.links a:hover{
+    color: rgb(9, 105, 41);
+    border-top: 2px solid rgb(9, 105, 41);
+    border-bottom: 2px solid rgb(9, 105, 41);
+}
+
+.site{
+    color: rgb(9, 105, 41);
+    font-weight: bold;
+    font-size: large;
+}
+
